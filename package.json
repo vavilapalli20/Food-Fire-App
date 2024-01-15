@@ -1,0 +1,46 @@
+{
+  "name": "yumfinity",
+  "version": "1.0.0",
+  "description": "foodapp",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest",
+    "watch-test": "jest --watch"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divyaa268/Yumfinity.git"
+  },
+  "author": "Divya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Divyaa268/Yumfinity/issues"
+  },
+  "homepage": "https://github.com/Divyaa268/Yumfinity#readme",
+  "devDependencies": {
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "@babel/preset-react": "^7.22.5",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^14.0.0",
+    "babel-jest": "^29.6.2",
+    "jest-environment-jsdom": "^29.6.2",
+    "parcel": "^2.9.2",
+    "postcss": "^8.4.25",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.2"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@reduxjs/toolkit": "^1.9.5",
+    "D": "^1.0.0",
+    "jest": "^29.6.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.1.1",
+    "react-router-dom": "^6.13.0"
+  }
+}
