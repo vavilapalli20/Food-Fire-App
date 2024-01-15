@@ -1,0 +1,1871 @@
+
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "64649",
+                            "name": "Tunday Kababi (Aminabad)",
+                            "city": "Lucknow",
+                            "slugs": {
+                                "restaurant": "tunday-kababi-aminabad-hazratganj",
+                                "city": "lucknow"
+                            },
+                            "uniqueId": "893992c0-0b45-479e-8baf-45e093c93b45",
+                            "cloudinaryImageId": "uws6wm1xndcgtox6moif",
+                            "locality": "Khayali Ganj",
+                            "areaName": "Aminabad",
+                            "costForTwo": "20000",
+                            "costForTwoMessage": "₹200 for two",
+                            "cuisines": [
+                                "Mughlai"
+                            ],
+                            "avgRating": 4.3,
+                            "feeDetails": {
+                                "restaurantId": "64649",
+                                "fees": [
+                                    {
+                                        "name": "time"
+                                    },
+                                    {
+                                        "name": "distance",
+                                        "fee": 4000
+                                    },
+                                    {
+                                        "name": "special"
+                                    }
+                                ],
+                                "totalFee": 4000,
+                                "icon": "EquitableDistanceFee/infoIcon",
+                                "message": "Far-away restaurant. Additional delivery fees will apply."
+                            },
+                            "parentId": "218444",
+                            "avgRatingString": "4.3",
+                            "totalRatingsString": "10K+ ratings",
+                            "sla": {
+                                "restaurantId": "64649",
+                                "lastMileTravel": 439.6,
+                                "serviceability": "NON_SERVICEABLE",
+                                "rainMode": "RAIN_MODE_NONE",
+                                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                                "lastMileTravelString": "439.6 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextCloseTime": "2023-08-13 23:30:00",
+                                "visibility": true,
+                                "opened": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "20% off up to ₹200 | Use INDUSIND20 Above ₹600",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {},
+                            "slugString": "tunday-kababi-aminabad-hazratganj",
+                            "isOpen": true,
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "168/6, Old Nazirabad Rd, Mohan Market, Khayali Ganj, Aminabad, Lucknow, Uttar Pradesh 226018"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "Mughlai"
+                                }
+                            ],
+                            "totalRatings": 10000,
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "20% off up to ₹200 | Use INDUSIND20 Above ₹600",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/64649"
+                            },
+                            "generalPurposeInfoListV2": [
+                                {
+                                    "cta": {
+                                        "info": {
+                                            "recordings": {}
+                                        },
+                                        "linkCta": {}
+                                    }
+                                }
+                            ],
+                            "ratingSlab": "RATING_SLAB_5",
+                            "availabilityServiceabilityMessage": "Does not deliver to your location",
+                            "orderabilityCommunication": {
+                                "title": {
+                                    "text": "Wish you were"
+                                },
+                                "subTitle": {
+                                    "text": "CLOSER!"
+                                },
+                                "message": {
+                                    "text": "This location is outside the outlet's delivery area",
+                                    "textColour": "negative"
+                                },
+                                "customIcon": {
+                                    "bgGradientColorStart": "#F64C41",
+                                    "bgGradientColorEnd": "#E53554"
+                                }
+                            },
+                            "hasBestsellerItems": true,
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "26.84838864,80.92729574"
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+                        "sectionId": "POP_UP_CROUTON_MENU"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 5,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            },
+                            "scrollBar": {}
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "50% OFF UPTO ₹100",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "f25fbaa8-879d-4894-97b9-39227cafc9ef"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE TRYNEW",
+                                            "description": "ABOVE ₹149",
+                                            "offerType": "offers",
+                                            "restId": "64649",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "20% OFF UPTO ₹200",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/5c4848f8c208408b048c18f6be604f14",
+                                            "offerIds": [
+                                                "a69dfd9d-5ad7-4e60-b4b1-ad8140c8cb18"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE INDUSIND20",
+                                            "description": "ABOVE ₹600",
+                                            "offerType": "offers",
+                                            "restId": "64649",
+                                            "offerLogo": "rng/md/ads/production/5c4848f8c208408b048c18f6be604f14",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "20% OFF UPTO ₹80",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/6de08393313dbf29b8b4c610c30702ad",
+                                            "offerIds": [
+                                                "9b4931b9-0bea-4fdb-acb9-afa86da43919"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE ONECARD",
+                                            "description": "ABOVE ₹250",
+                                            "offerType": "offers",
+                                            "restId": "64649",
+                                            "offerLogo": "rng/md/ads/production/6de08393313dbf29b8b4c610c30702ad",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "15% OFF UPTO ₹300",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/15fb1cfe885005447dc8375e7970600f",
+                                            "offerIds": [
+                                                "dc23cf1d-dce3-4ad1-8506-ff010e482b6e"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE CITIFOODIE",
+                                            "description": "ABOVE ₹1200",
+                                            "offerType": "offers",
+                                            "restId": "64649",
+                                            "offerLogo": "rng/md/ads/production/15fb1cfe885005447dc8375e7970600f",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹150 OFF",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/59ef5e58052532ad85a185bf516eccce",
+                                            "offerIds": [
+                                                "b47439e9-4bca-426e-94cd-88d3b96e607e"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE AMEX150",
+                                            "description": "ABOVE ₹600",
+                                            "offerType": "offers",
+                                            "restId": "64649",
+                                            "offerLogo": "rng/md/ads/production/59ef5e58052532ad85a185bf516eccce",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "topRatedFilter": {}
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Recommended",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830929",
+                                                            "name": "Veg Kebab",
+                                                            "category": "Kebabs",
+                                                            "imageId": "e7a2d2b4bdc666a06e4f2e962c3ae25f",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "24298531",
+                                                                        "name": "Veg Kebab Size",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "(1pcs)",
+                                                                                "price": 33.75,
+                                                                                "default": 1,
+                                                                                "id": "78263598",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "(4pcs)",
+                                                                                "price": 135,
+                                                                                "id": "78263599",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298531",
+                                                                                "variationId": "78263598"
+                                                                            }
+                                                                        ],
+                                                                        "price": 3375
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298531",
+                                                                                "variationId": "78263599"
+                                                                            }
+                                                                        ],
+                                                                        "price": 13500
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "defaultPrice": 3375,
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.8",
+                                                                    "ratingCount": "1003 ratings",
+                                                                    "ratingCountV2": "1003"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830936",
+                                                            "name": "Tunday Mutton Kebab (Galouti)",
+                                                            "category": "Kebabs",
+                                                            "imageId": "62e008347d110790f0a383360dc4cae2",
+                                                            "inStock": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "24298532",
+                                                                        "name": "Tunday Mutton Kebab (Galouti) Size",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "(4 Pcs)",
+                                                                                "price": 174,
+                                                                                "id": "78263600",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "(1 Pc)",
+                                                                                "price": 44,
+                                                                                "default": 1,
+                                                                                "id": "78263601",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298532",
+                                                                                "variationId": "78263600"
+                                                                            }
+                                                                        ],
+                                                                        "price": 17400
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298532",
+                                                                                "variationId": "78263601"
+                                                                            }
+                                                                        ],
+                                                                        "price": 4400
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "defaultPrice": 4400,
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "16392 ratings",
+                                                                    "ratingCountV2": "16392"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830932",
+                                                            "name": "Roasted Chicken",
+                                                            "category": "Starters",
+                                                            "imageId": "668c668cb3f95ff3f2323a9925176600",
+                                                            "inStock": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "24298534",
+                                                                        "name": "Roasted Chicken Size",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Full",
+                                                                                "price": 512,
+                                                                                "id": "78263604",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Half",
+                                                                                "price": 256,
+                                                                                "default": 1,
+                                                                                "id": "78263605",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298534",
+                                                                                "variationId": "78263604"
+                                                                            }
+                                                                        ],
+                                                                        "price": 51200
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298534",
+                                                                                "variationId": "78263605"
+                                                                            }
+                                                                        ],
+                                                                        "price": 25600
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "defaultPrice": 25600,
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "3429 ratings",
+                                                                    "ratingCountV2": "3429"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830940",
+                                                            "name": "Paneer Handi",
+                                                            "category": "Main Course",
+                                                            "imageId": "19232fd756abebf49987c91258fddcb8",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 22900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "338 ratings",
+                                                                    "ratingCountV2": "338"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830946",
+                                                            "name": "Dal Makhani",
+                                                            "category": "Main Course",
+                                                            "imageId": "68442e7009d346a0e6c5afb145b7f958",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "111 ratings",
+                                                                    "ratingCountV2": "111"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830939",
+                                                            "name": "Kadai Paneer",
+                                                            "category": "Main Course",
+                                                            "imageId": "169fd8dead99b82b4dc62ca1896a61a4",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 22900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.8",
+                                                                    "ratingCount": "238 ratings",
+                                                                    "ratingCountV2": "238"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830949",
+                                                            "name": "Mutton Biryani",
+                                                            "category": "Biryanis",
+                                                            "imageId": "e1566748e57a867b0fa329caaabb5dba",
+                                                            "inStock": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "24298539",
+                                                                        "name": "Mutton Biryani Size",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Full",
+                                                                                "price": 458,
+                                                                                "id": "78263614",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Half",
+                                                                                "price": 229,
+                                                                                "default": 1,
+                                                                                "id": "78263615",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298539",
+                                                                                "variationId": "78263614"
+                                                                            }
+                                                                        ],
+                                                                        "price": 45800
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298539",
+                                                                                "variationId": "78263615"
+                                                                            }
+                                                                        ],
+                                                                        "price": 22900
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "defaultPrice": 22900,
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "12341 ratings",
+                                                                    "ratingCountV2": "12341"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "24944746",
+                                                            "name": "Mutton Keema (1 Kg)",
+                                                            "category": "Ready To Cook Kabab (keema)",
+                                                            "imageId": "c32b74f615898da0c428efd0c2246087",
+                                                            "inStock": 1,
+                                                            "price": 148500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.9",
+                                                                    "ratingCount": "85 ratings",
+                                                                    "ratingCountV2": "85"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "type": "CATEGORY_TYPE_RECOMMENDED"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Kebabs",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830929",
+                                                            "name": "Veg Kebab",
+                                                            "category": "Kebabs",
+                                                            "imageId": "e7a2d2b4bdc666a06e4f2e962c3ae25f",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "24298531",
+                                                                        "name": "Veg Kebab Size",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "(1pcs)",
+                                                                                "price": 33.75,
+                                                                                "default": 1,
+                                                                                "id": "78263598",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "(4pcs)",
+                                                                                "price": 135,
+                                                                                "id": "78263599",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298531",
+                                                                                "variationId": "78263598"
+                                                                            }
+                                                                        ],
+                                                                        "price": 3375
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298531",
+                                                                                "variationId": "78263599"
+                                                                            }
+                                                                        ],
+                                                                        "price": 13500
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "defaultPrice": 3375,
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.8",
+                                                                    "ratingCount": "1003 ratings",
+                                                                    "ratingCountV2": "1003"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830936",
+                                                            "name": "Tunday Mutton Kebab (Galouti)",
+                                                            "category": "Kebabs",
+                                                            "imageId": "62e008347d110790f0a383360dc4cae2",
+                                                            "inStock": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "24298532",
+                                                                        "name": "Tunday Mutton Kebab (Galouti) Size",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "(4 Pcs)",
+                                                                                "price": 174,
+                                                                                "id": "78263600",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "(1 Pc)",
+                                                                                "price": 44,
+                                                                                "default": 1,
+                                                                                "id": "78263601",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298532",
+                                                                                "variationId": "78263600"
+                                                                            }
+                                                                        ],
+                                                                        "price": 17400
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298532",
+                                                                                "variationId": "78263601"
+                                                                            }
+                                                                        ],
+                                                                        "price": 4400
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "defaultPrice": 4400,
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "16392 ratings",
+                                                                    "ratingCountV2": "16392"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830937",
+                                                            "name": "Tunday Galouti Kebab (Black Buffalo)",
+                                                            "category": "Kebabs",
+                                                            "inStock": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "24298533",
+                                                                        "name": "Tunday Galouti Kebab (Black Buffalo) Size",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "(4 Pcs)",
+                                                                                "price": 94,
+                                                                                "id": "78263602",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "(1 Pc)",
+                                                                                "price": 24,
+                                                                                "default": 1,
+                                                                                "id": "78263603",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298533",
+                                                                                "variationId": "78263602"
+                                                                            }
+                                                                        ],
+                                                                        "price": 9400
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298533",
+                                                                                "variationId": "78263603"
+                                                                            }
+                                                                        ],
+                                                                        "price": 2400
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "defaultPrice": 2400,
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "19925 ratings",
+                                                                    "ratingCountV2": "19925"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Kabab Paratha Combo",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "29584686",
+                                                            "name": "Veg Galawati Kebab(Full 4 pcs) + 2 Mughlai Paratha(Combo)",
+                                                            "category": "Kabab Paratha Combo",
+                                                            "description": "Serves 1",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 17600,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.3",
+                                                                    "ratingCount": "37 ratings",
+                                                                    "ratingCountV2": "37"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "29584684",
+                                                            "name": "Tunday Galawati Mutton Kebab(Full 4pcs) + 2 Mughlai Paratha(Combo)",
+                                                            "category": "Kabab Paratha Combo",
+                                                            "description": "Serves 1",
+                                                            "inStock": 1,
+                                                            "price": 21400,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "513 ratings",
+                                                                    "ratingCountV2": "513"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "37964962",
+                                                            "name": "Galawati Kebab(Black Buffalo) Paratha Combo (4 Kebab and 2 Paratha)",
+                                                            "category": "Kabab Paratha Combo",
+                                                            "inStock": 1,
+                                                            "price": 13400,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "8025 ratings",
+                                                                    "ratingCountV2": "8025"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Starters",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830932",
+                                                            "name": "Roasted Chicken",
+                                                            "category": "Starters",
+                                                            "imageId": "668c668cb3f95ff3f2323a9925176600",
+                                                            "inStock": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "24298534",
+                                                                        "name": "Roasted Chicken Size",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Full",
+                                                                                "price": 512,
+                                                                                "id": "78263604",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Half",
+                                                                                "price": 256,
+                                                                                "default": 1,
+                                                                                "id": "78263605",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298534",
+                                                                                "variationId": "78263604"
+                                                                            }
+                                                                        ],
+                                                                        "price": 51200
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298534",
+                                                                                "variationId": "78263605"
+                                                                            }
+                                                                        ],
+                                                                        "price": 25600
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "defaultPrice": 25600,
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "3429 ratings",
+                                                                    "ratingCountV2": "3429"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Main Course",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830950",
+                                                            "name": "Mughlai Paratha (1 Pc)",
+                                                            "category": "Main Course",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 2000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "20409 ratings",
+                                                                    "ratingCountV2": "20409"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830953",
+                                                            "name": "Sheermal",
+                                                            "category": "Main Course",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 2700,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "6054 ratings",
+                                                                    "ratingCountV2": "6054"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830952",
+                                                            "name": "Rumali Roti (1 Pc)",
+                                                            "category": "Main Course",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 1100,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "6167 ratings",
+                                                                    "ratingCountV2": "6167"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830940",
+                                                            "name": "Paneer Handi",
+                                                            "category": "Main Course",
+                                                            "imageId": "19232fd756abebf49987c91258fddcb8",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 22900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "338 ratings",
+                                                                    "ratingCountV2": "338"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830946",
+                                                            "name": "Dal Makhani",
+                                                            "category": "Main Course",
+                                                            "imageId": "68442e7009d346a0e6c5afb145b7f958",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "111 ratings",
+                                                                    "ratingCountV2": "111"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830939",
+                                                            "name": "Kadai Paneer",
+                                                            "category": "Main Course",
+                                                            "imageId": "169fd8dead99b82b4dc62ca1896a61a4",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 22900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.8",
+                                                                    "ratingCount": "238 ratings",
+                                                                    "ratingCountV2": "238"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Biryanis",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830947",
+                                                            "name": "Aromatic Basmati Rice (Biryani Rice)",
+                                                            "category": "Biryanis",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "24298538",
+                                                                        "name": "Aromatic Basmati Rice (Biryani Rice)Size",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Full",
+                                                                                "price": 218,
+                                                                                "id": "78263612",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Half",
+                                                                                "price": 109,
+                                                                                "default": 1,
+                                                                                "id": "78263613",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298538",
+                                                                                "variationId": "78263612"
+                                                                            }
+                                                                        ],
+                                                                        "price": 21800
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298538",
+                                                                                "variationId": "78263613"
+                                                                            }
+                                                                        ],
+                                                                        "price": 10900
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "defaultPrice": 10900,
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "161 ratings",
+                                                                    "ratingCountV2": "161"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "24944744",
+                                                            "name": "Veg Biryani",
+                                                            "category": "Biryanis",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "24298537",
+                                                                        "name": "Veg Biryani Size",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Full(Serves 2)",
+                                                                                "price": 324,
+                                                                                "id": "78263610",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Half(Serves 1)",
+                                                                                "price": 162,
+                                                                                "default": 1,
+                                                                                "id": "78263611",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298537",
+                                                                                "variationId": "78263610"
+                                                                            }
+                                                                        ],
+                                                                        "price": 32400
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298537",
+                                                                                "variationId": "78263611"
+                                                                            }
+                                                                        ],
+                                                                        "price": 16200
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "defaultPrice": 16200,
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.2",
+                                                                    "ratingCount": "470 ratings",
+                                                                    "ratingCountV2": "470"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "16830949",
+                                                            "name": "Mutton Biryani",
+                                                            "category": "Biryanis",
+                                                            "imageId": "e1566748e57a867b0fa329caaabb5dba",
+                                                            "inStock": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "24298539",
+                                                                        "name": "Mutton Biryani Size",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Full",
+                                                                                "price": 458,
+                                                                                "id": "78263614",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Half",
+                                                                                "price": 229,
+                                                                                "default": 1,
+                                                                                "id": "78263615",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298539",
+                                                                                "variationId": "78263614"
+                                                                            }
+                                                                        ],
+                                                                        "price": 45800
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298539",
+                                                                                "variationId": "78263615"
+                                                                            }
+                                                                        ],
+                                                                        "price": 22900
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "defaultPrice": 22900,
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "12341 ratings",
+                                                                    "ratingCountV2": "12341"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "18981638",
+                                                            "name": "Chicken Biryani ",
+                                                            "category": "Biryanis",
+                                                            "inStock": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "24298540",
+                                                                        "name": "Chicken Biryani Size",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Half",
+                                                                                "price": 189,
+                                                                                "default": 1,
+                                                                                "id": "78263616",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Full",
+                                                                                "price": 378,
+                                                                                "id": "78263617",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298540",
+                                                                                "variationId": "78263616"
+                                                                            }
+                                                                        ],
+                                                                        "price": 18900
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "24298540",
+                                                                                "variationId": "78263617"
+                                                                            }
+                                                                        ],
+                                                                        "price": 37800
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "defaultPrice": 18900,
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "10164 ratings",
+                                                                    "ratingCountV2": "10164"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Ready To Cook Kabab (keema)",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "24944745",
+                                                            "name": "Black Baffalo Keema (1 Kg)",
+                                                            "category": "Ready To Cook Kabab (keema)",
+                                                            "inStock": 1,
+                                                            "price": 81000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.7",
+                                                                    "ratingCount": "382 ratings",
+                                                                    "ratingCountV2": "382"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "24944746",
+                                                            "name": "Mutton Keema (1 Kg)",
+                                                            "category": "Ready To Cook Kabab (keema)",
+                                                            "imageId": "c32b74f615898da0c428efd0c2246087",
+                                                            "inStock": 1,
+                                                            "price": 148500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.9",
+                                                                    "ratingCount": "85 ratings",
+                                                                    "ratingCountV2": "85"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 12718066000620"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "Tunday Kababi (Aminabad)",
+                                            "area": "Aminabad",
+                                            "completeAddress": "168/6, Old Nazirabad Rd, Mohan Market, Khayali Ganj, Aminabad, Lucknow, Uttar Pradesh 226018"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    },
+    "tid": "d650e6a5-4b3f-4aa3-911a-64d7be28196f",
+    "sid": "8qd25494-fe1e-46a3-8510-3ef5150264e0",
+    "deviceId": "fdb755fa-7a38-9de3-13f4-501157422060",
+    "csrfToken": "Sxibe0aIYwa0-jVRDlignsLbMyTHP438Nz2vhcDY"
+}
