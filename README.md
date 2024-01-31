@@ -1,8 +1,10 @@
 # Food-Fire-App
 Yumfinity: Savor the Flavor with Seamless Food Ordering 🍟
+
 Introducing Yumfinity, your ultimate food ordering solution that brings a delightful culinary journey right to your fingertips. Crafted using a sophisticated blend of cutting-edge technologies, Yumfinity promises a streamlined and delectable experience for users seeking to indulge in their favorite dishes. This online food ordering application is meticulously designed to provide convenience, interactivity, and style.
 
 Features :
+
 🍕 React-Powered Delight: Yumfinity harnesses the power of React, the renowned JavaScript library, to create a seamless and interactive user interface. This ensures an immersive browsing and ordering experience that responds instantaneously to your desires.
 
 🍕 Savory Redux State Management: With Redux, Yumfinity maintains a crisp organization of data, ensuring smooth transitions between screens, keeping your order intact and your journey savory.
